@@ -31,3 +31,13 @@ My C language Projects
    Check win or draw condition after each moves.
    Continue until a player wins or the game ends in a draw.
    Offer an option to play again.
+
+
+
+4. To-Do List : (TXT file operations)
+-> Objective : Develop basic to-do list application
+-> Features :
+   Allows users to add tasks to the list.
+   Remove All the tasks.
+   Display Current list of tasks.
+   Managing the list of tasks until user decides to exit.
