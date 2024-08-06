@@ -20,3 +20,14 @@ My C language Projects
    Provide feedback (the number is greater than or less than).
    Tracks the number of attemps.
    Offer an option to play again.
+
+
+
+3. Tic-Tac-Toe Game ;
+-> Objective : Develop Tic-Tac-Toe Game for two players.
+-> Features :
+   Display 3*3 grid for gameplay.
+   Alternate turns between two player (X and O).
+   Check win or draw condition after each moves.
+   Continue until a player wins or the game ends in a draw.
+   Offer an option to play again.
