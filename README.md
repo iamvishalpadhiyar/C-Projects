@@ -41,3 +41,12 @@ My C language Projects
    Remove All the tasks.
    Display Current list of tasks.
    Managing the list of tasks until user decides to exit.
+
+
+
+5. Bank Management : (Client Account Management)
+-> Objective : Develop to manage balance of client
+-> Feature :
+   Take input of user name,password and deposite.
+   Allow user to perform operations.
+   Operations : Deposite , Withdrew and Check Balance
