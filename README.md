@@ -45,7 +45,7 @@ My C language Projects
 
 
 5. Bank Management : (Client Account Management)
--> Objective : Develop to manage balance of client
+-> Objective : Develop to manage bank accounts 
 -> Feature :
    Offer to user for registation and login.
    Take input of user name,password and deposite.
