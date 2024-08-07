@@ -49,4 +49,5 @@ int main() {
             scanf(" %c",&s);
         }
     }
+    return 0;
 }
