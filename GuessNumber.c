@@ -100,4 +100,5 @@ int main() {
         printf("\nDo you want to play (y/n) : ");
         scanf(" %c",&n);
     }
+    return 0;
 }
